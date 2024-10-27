@@ -6,7 +6,8 @@ This project is a part of my BDAT1005 course's Individual Take-home Learning Tes
 Project Overview
 The assignment objectives are to:
 
-### Organize the Dataset: **Duplicate and arrange data in a new worksheet, separating independent and dependent variables.**
+### Organize the Dataset: 
+**Duplicate and arrange data in a new worksheet, separating independent and dependent variables.**
 
 ![image](https://github.com/user-attachments/assets/55b14769-d7da-4938-b935-89eb9bdfd2f7)
 
